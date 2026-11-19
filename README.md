@@ -1,6 +1,6 @@
-# Fit Check: public pages
+# FitScore: public pages
 
-Static pages required for the App Store submission of Fit Check, served by GitHub Pages
+Static pages required for the App Store submission of FitScore, served by GitHub Pages
 from the `main` branch root.
 
 | Page | URL | Used for |
